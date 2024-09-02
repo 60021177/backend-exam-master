@@ -19,4 +19,3 @@ For 5_rest_api
    - http://127.0.0.1:8000/api/v1/teachers/
    - http://127.0.0.1:8000/api/v1/students/
 
-  Note: The code may not be complete because I have no experience in Django, thanks for the opportunity to test it.
